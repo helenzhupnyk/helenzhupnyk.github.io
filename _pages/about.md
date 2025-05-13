@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Mariia-Olena Zhupnyk"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-Hi, I’m Mariia-Olena Zhupnyk — a junior data scientist with a passion for turning data into actionable insights. My current focus includes data analysis, exploratory data visualization, and building data-driven tools to support smarter business decisions. I enjoy finding meaningful patterns in messy datasets and transforming them into clear, strategic insights.
+Hi, I’m Mariia-Olena Zhupnyk — a **junior Data Scientist** with a passion for turning data into actionable insights. My current focus includes data analysis, exploratory data visualization, and building data-driven tools to support smarter business decisions. I enjoy finding meaningful patterns in messy datasets and transforming them into clear, strategic insights.
 
-I’m currently a Data Science Intern at M2M Tech, where I’m gaining real-world experience solving practical AI and data challenges. I’ve worked on tasks such as exploratory data analysis, feature engineering, and model evaluation — all while collaborating in a team-based environment. I participated in a WIL project supporting data exploration and model development for a real-world AI use case. I contributed to internal discussions, task tracking, and learned project scoping practices.
+I’m currently a **Data Science Intern at M2M Tech**, where I’m gaining real-world experience solving practical AI and data challenges. I’ve worked on tasks such as exploratory data analysis, feature engineering, and model evaluation — all while collaborating in a team-based environment. I participated in a WIL project supporting data exploration and model development for a real-world AI use case. I contributed to internal discussions, task tracking, and learned project scoping practices.
 
 I hold a Master’s degree in Computer Science and have worked across multiple domains — including data analytics, customer service, and website administration. This blend gives me a unique perspective on both technical problem-solving and user-centered thinking.
 
