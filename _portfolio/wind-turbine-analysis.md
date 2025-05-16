@@ -3,7 +3,8 @@ title: "Wind Turbines in the U.S. - Data Analysis & Visualization"
 collection: projects
 permalink: /project/wind-turbines/
 date: 2024-04-01
-excerpt: "Exploratory data analysis and Bokeh dashboard on U.S. wind turbines dataset."
+excerpt: "Analyzed U.S. wind turbine data to identify trends in turbine capacity, manufacturers, and energy production by state. Provided insights into which states have the highest average capacity and which manufacturers dominate the market.
+"
 tags: [data-analysis, bokeh, visualization, eda]
 ---
 ![Wind Turbine Dashboard](/images/wind-turbine-visual.png)
