@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Helen Zhupnyk"
 title_separator          : "-"
 name                     : &name "Helen Zhupnyk"
-description              : &description "Junior Data Scientist passionate about using data to drive strategic business decisions."
+description              : &description "Junior Data Scientist passionate about solving real-world problems with data."
 url                      : https://helenzhupnyk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/helenzhupnyk/helenzhupnyk.github.io/"
@@ -22,7 +22,7 @@ repository               : "https://github.com/helenzhupnyk/helenzhupnyk.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "helen.png"
   name             : "Helen Zhupnyk"
   pronouns         : #"she/her"  
   bio              : "Junior Data Scientist passionate about using data to drive strategic business decisions"
