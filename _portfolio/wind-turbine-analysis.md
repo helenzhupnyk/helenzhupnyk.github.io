@@ -4,7 +4,7 @@ collection: projects
 permalink: /project/wind-turbines/
 date: 2024-04-01
 excerpt: "Analyzed U.S. wind turbine data to identify trends in turbine capacity, manufacturers, and energy production by state. Provided insights into which states have the highest average capacity and which manufacturers dominate the market.
-<br/><img src='/images/wind-turbine-visual.png'>" 
+<br/><img src='/images/Wind Turbine Locations.png'>" 
 tags: [data-analysis, bokeh, visualization, eda]
 ---
 ![Wind Turbine Dashboard](/images/wind-turbine-visual.png)
