@@ -3,7 +3,7 @@ title: "Canadian Banks Stock Data Analysis & Prediction"
 collection: projects
 permalink: /project/canadian-banks-stocks/
 date: 2025-03-01
-excerpt: "Data analysis, forecasting models, and interactive dashboards for the top Canadian banks using Python, SQL, Power BI, and Data Science techniques."
+excerpt: "Data analysis, forecasting models, and interactive dashboards for the top Canadian banks using Python, SQL, Power BI, and Data Science techniques. <br/><img src='/images/canadian_banks.png'>"
 tags: [data-analysis, forecasting, time-series, powerbi, python]
 ---
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
