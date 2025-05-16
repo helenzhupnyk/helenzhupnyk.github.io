@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ---
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
+title: "Data Analyst | Data Science/ML Intern | Data Enthusiast"
 ---
 
 ## Education & Certifications
