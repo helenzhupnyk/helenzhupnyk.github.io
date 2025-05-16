@@ -53,11 +53,11 @@ Junior Data Specialist with a strong foundation in data science, analytics, and 
 ## Professional Experience
 
 ### **Data Science Intern**  
-**M@M | Calgary, AB**  
+**M2M Tech| Calgary, AB**  
 *May 2025 – Present*  
-- Supporting the development of a computer vision model using YOLO for image classification.  
+- Participated in a WIL project supporting data exploration and model development for a real-world AI use case.
+- Contributed to internal discussions, task tracking, and learned project scoping practices.
 - Conducting data cleaning, preprocessing, feature engineering, and class balancing.  
-- Collaborating on model evaluation and reporting in Jupyter using Python.
 
 ### **Website Content Administrator**  
 **Freelance | Ukraine**  
