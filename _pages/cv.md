@@ -8,57 +8,69 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+---
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education & Certifications
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### **Junior Data Analyst Program**  
+*NPower Canada | Aug 2024 – Dec 2024 | Calgary, AB*
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
+*Microsoft | Oct 2024*
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### **IBM Data Analyst Professional Certificate**  
+*Coursera | Dec 2024*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### **Python for Data Analysis**  
+*Data Loves Academy | Oct 2023 – Mar 2024*
+
+### **Master's in Computer Science**  
+*Chernivtsi National University | Sept 2012 – Jan 2018*
+
+---
+
+## Professional Summary
+
+Junior Data Specialist with a strong foundation in data science, analytics, and visualization. Skilled in transforming data into actionable insights that support business decisions. Currently gaining hands-on experience as a **Data Science Intern**, working on real-world machine learning projects. Passionate about turning complex data into clear stories through Python, SQL, and BI tools like Power BI and Tableau.
+
+---
+
+## Core Skills
+
+- **Languages & Tools:** Python, SQL, HTML/CSS, Git, Excel, Jupyter, VS Code, Google Colab, GCP  
+- **Data Analysis:** Pandas, NumPy, Scikit-learn  
+- **Visualization:** Power BI, Bokeh, Seaborn, Matplotlib, Seaborn, Tableau 
+- **Databases:** PostgreSQL, MySQL  
+- **Cloud & ML:** Microsoft Azure (AI-900 Certified), YOLO, GCP (basic experience)  
+- **Project Tools:** GitHub, Trello, Open project, Canva, WordPress, Google Analytics
+
+---
+
+## Professional Experience
+
+### **Data Science Intern**  
+**M@M | Calgary, AB**  
+*May 2025 – Present*  
+- Supporting the development of a computer vision model using YOLO for image classification.  
+- Conducting data cleaning, preprocessing, feature engineering, and class balancing.  
+- Collaborating on model evaluation and reporting in Jupyter using Python.
+
+### **Website Content Administrator**  
+**Freelance | Ukraine**  
+*2018 – 2022*  
+- Analyzed product sales and identified top-performing categories using Excel.  
+- Created and managed SEO content with tools like WordPress, Google Analytics, SEMrush.  
+- Automated content updates and published data-driven blog insights.  
+- Promoted to Head of Content Manager within a year, driving team growth and achieving significant sales increases
+
+---
+
+## Contact
+
+Feel free to connect or message me:  
+📫 **helen.zhupnyk@gmail.com** | 🌐 [LinkedIn](https://www.linkedin.com/in/helenzhupnyk/)
+
