@@ -6,10 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 ---
-title: "Data Analyst | Data Science/ML Intern | Data Enthusiast"
+# "Data Analyst | Data Science/ML Intern | Data Enthusiast"
 ---
 
 ## Education & Certifications
