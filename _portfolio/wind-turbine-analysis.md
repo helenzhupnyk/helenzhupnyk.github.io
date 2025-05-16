@@ -40,17 +40,6 @@ This project explores the operational characteristics and geographic distributio
 | Visualization | Bokeh (interactive plots, filters, hover tools) |
 | Data Interpretation | Aggregation, grouping, regional comparison |
 | Communication | Insight presentation, storytelling through data |
-
----
-
-## Sample Visualizations
-
-> *(Screenshots can be added here once uploaded to /images directory)*
-
-<img src="images/wind-capacity-map.png" width="600" alt="Wind Turbine Capacity Map">
-
-*Example: Geographic distribution of wind turbines sized by capacity.*
-
 ---
 
 ## Key Insights
