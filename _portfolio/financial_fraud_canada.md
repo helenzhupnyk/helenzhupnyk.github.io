@@ -4,11 +4,9 @@ collection: projects
 permalink: /project/financial-fraud/
 date: 2024-05-01
 excerpt: "Analyzed Canadian financial fraud data reported from 2021 to 2025 to identify demographic trends, fraud categories, and key patterns. Applied machine learning models to classify fraud cases and evaluated performance.
-<br/><img src='/images/fraud-dashboard.png'>" 
+<br/><img src='/images/fraud_canada.png'>" 
 tags: [data-analysis, scikit-learn, classification, eda]
 ---
-
-![](/images/fraud_canada.png)
 
 # Financial Fraud in Canada — Data Analysis & Classification Project
 
