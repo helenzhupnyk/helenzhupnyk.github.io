@@ -8,7 +8,7 @@ excerpt: "Analyzed Canadian financial fraud data reported from 2021 to 2025 to i
 tags: [data-analysis, scikit-learn, classification, eda]
 ---
 
-![Fraud Classification Dashboard](/images/fraud-dashboard.png)
+![](/images/fraud_canada.png)
 
 # Financial Fraud in Canada — Data Analysis & Classification Project
 
