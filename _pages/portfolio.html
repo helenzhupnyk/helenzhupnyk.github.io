@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{%- comment -%}
+  Sort portfolio items by `date` (newest first)
+{%- endcomment -%}
+{% assign sorted_projects = site.portfolio | sort: 'date' | reverse %}
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
