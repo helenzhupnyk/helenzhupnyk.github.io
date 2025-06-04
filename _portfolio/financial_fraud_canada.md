@@ -13,7 +13,7 @@ tags: [data-analysis, scikit-learn, classification, eda]
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Ongoing-yellow)]()
+[![Status](https://img.shields.io/badge/Status-Done-brightgreen)]()
 
 ## Overview
 
@@ -23,11 +23,10 @@ This project investigates over 328,000 financial fraud complaints reported in Ca
 
 ## Objectives
 
-- Perform exploratory data analysis (EDA) on fraud complaint data
-- Analyze demographic factors like gender and age range
-- Identify trends in fraud types and sources by province
-- Build classification models to predict fraudulent activity
-- Compare model performance using accuracy, precision, recall, and F1-score
+- Detect common and costly fraud types  
+- Identify regional and demographic fraud patterns  
+- Predict loss outcome using machine learning  
+- Deliver insights for awareness and prevention  
 
 ---
 
@@ -36,7 +35,7 @@ This project investigates over 328,000 financial fraud complaints reported in Ca
 | Category          | Tools/Skills                                    |
 |-------------------|-------------------------------------------------|
 | Data Analysis      | Python, Pandas, NumPy                          |
-| Data Visualization | Matplotlib, Seaborn                           |
+| Data Visualization | Matplotlib, Seaborn, Plotly                           |
 | Machine Learning   | Scikit-learn (Logistic Regression, Decision Tree, Random Forest) |
 | Evaluation Metrics | Confusion Matrix, Accuracy, Precision, Recall |
 | Project Management | Jupyter Notebook, Git, GitHub                 |
@@ -45,29 +44,25 @@ This project investigates over 328,000 financial fraud complaints reported in Ca
 
 ## Key Insights
 
-- **Most Common Fraud**: Identity fraud was the most frequently reported category.
-- **Top Provinces**: Ontario had the highest number of reported fraud cases.
-- **Demographics**: People aged 30–69 were the most frequent fraud victims, especially those 30–39.
-- **Gender**: Slightly more female victims were recorded, but the distribution was balanced.
-- **Underreporting**: A significant portion of data lacked gender and age details.
+- Investment scams caused the largest financial losses  
+- Ontario, Quebec, and BC had the most fraud cases  
+- Age group 30–69 was most affected  
+- Reporting increased steadily year over year  
 
 ---
 
-## Model Comparison
+## Predictive Modeling  
+Built classifiers to predict if a reported fraud resulted in monetary loss.
 
-| Model               | Accuracy | Fraud Recall | Fraud Precision | Fraud F1-Score |
-|--------------------|----------|--------------|------------------|----------------|
-| Logistic Regression| 0.88     | 0.72         | 0.76             | 0.74           |
-| Decision Tree       | 0.88     | 0.73         | 0.76             | 0.74           |
-| Random Forest       | 0.88     | **0.75**     | 0.76             | **0.75**       |
-
-✅ **Top Performer**: Random Forest Classifier — achieved the best balance between precision and recall.
+- **Random Forest** achieved the best performance  
+- Accuracy: 88% | F1-score: 0.87 for positive class  
 
 ---
 
-## Conclusion
-
-This analysis of Canadian financial fraud reports highlights the most vulnerable demographics and common fraud types. It also provides a foundation for building ML-based fraud detection tools. The Random Forest model demonstrated the best classification performance, and future work will focus on improving recall, addressing class imbalance, and incorporating additional features like location and timestamps.
+##  Outcome  
+✔️ Project completed  
+✔️ Visualizations, insights, and final notebook published  
+✔️ Models show potential for real-world fraud detection use  
 
 ---
 
